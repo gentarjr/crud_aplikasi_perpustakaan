@@ -1,0 +1,6 @@
+Mamat_2020_1,2020,Mamat,Gramedia,Mancing Mania
+Yanto_2019_1,2019,Yanto,Kompas,Mata Pancing
+Fahmi_2019_1,2019,Fahmi,Gramedia,Malam Malam
+Fikri_2017_1,2017,Fikri,Kompas,Helpdesk
+radityadika_2012_1,2012,raditya dika,kompas,koala kumal
+panjipragiwaksono_2020_1,2020,panji pragiwaksono,gramedia,Indonesia Merdeka
